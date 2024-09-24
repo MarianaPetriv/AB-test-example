@@ -37,7 +37,7 @@ To simplify, we assume that other metrics (such as engagement or retention) have
 
 - A bar chart is created comparing the average conversion rates between the two groups with 95% confidence intervals.
 
-![A/B Test Result](AB test result.jpg)
+![A/B Test Result](AB_test_result.jpg)
 
 ### 4. Conclusion
 
@@ -47,7 +47,7 @@ To simplify, we assume that other metrics (such as engagement or retention) have
 
 - A time series graph is created to show the change in conversion rates over time.
 
-![Daily Conversion Rate Over Time](Daily conversion rate over time.jpg)
+![Daily Conversion Rate Over Time](daily_conversion_rate_over_time.jpg)
 
 ## How to Run the Project
 
